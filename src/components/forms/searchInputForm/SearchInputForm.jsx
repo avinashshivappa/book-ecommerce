@@ -1,7 +1,8 @@
 // eslint-disable-next-line no-unused-vars
 import React, { useState } from "react";
+import "./searchInputForm.styles.css";
 import { useNavigate } from "react-router-dom";
-import "./searchinputform.styles.css";
+
 
 // eslint-disable-next-line react/prop-types
 const SearchInputForm = ({ darkTheme }) => {
